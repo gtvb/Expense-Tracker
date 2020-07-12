@@ -10,11 +10,15 @@ git clone https://github.com/Gabriel2233/expense-tracker.git
 
 After entering inside the project directory, start the project:
 
+```bash
 yarn
+```
 
+```bash
 yarn start
+```
 
-And you're done!
+That's it!
 
 ##  Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
